@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+   color: #84009b;
+   font-size: 40px;
+   text-align: center;
+}
+input{
+    height: 40px;
+    border: 2px solid #84009b;
+    background-color: #333;
+    color: #eee;
+    outline: none;
+}
+button{
+    border: none;
+    height: 44px;
+    background-color: #84009b;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: #a900c7;
+}
+button:active{
+    background-color: #a900ec;
+}
